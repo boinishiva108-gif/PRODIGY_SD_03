@@ -3,34 +3,34 @@ A simple GUI-based Contact Management System built using Python's Tkinter librar
 This application allows users to store, view, edit, and delete contact information.
 All contacts are saved in a JSON file for persistent storage, so data remains even after closing the application.
 
-✨ Features
-➕ Add Contact – Store name, phone number, and email address
+Features
+Add Contact – Store name, phone number, and email address
 
-📋 View Contacts – Display all saved contacts in a list
+View Contacts – Display all saved contacts in a list
 
-✏️ Edit Contact – Update existing contact information
+Edit Contact – Update existing contact information
 
-🗑️ Delete Contact – Remove contacts from the list
+Delete Contact – Remove contacts from the list
 
-💾 Persistent Storage – Contacts are saved in contacts.json
+Persistent Storage – Contacts are saved in contacts.json
 
-🛠️ Technologies Used
+Technologies Used
 Python 3
 
 Tkinter – for building the GUI
 
 JSON – for storing data
 
-📂 File Structure
+File Structure
 bash
 Copy
 Edit
-📁 Contact-Management-System
+Contact-Management-System
 │── main.py         # Main application code
 │── contacts.json   # Data file for storing contacts
 │── .gitignore      # Ignore unnecessary files in Git
 │── README.md       # Project documentation
-🚀 How to Run
+How to Run
 Clone the repository
 
 bash
@@ -44,7 +44,7 @@ bash
 Copy
 Edit
 python main.py
-📦 Packaging into .exe (Optional)
+Packaging into .exe (Optional)
 If you want to run it as a standalone application without Python:
 
 bash
